@@ -1,4 +1,4 @@
 lesson1
 =======
 
-* <a href="https://github.com/YrNiki/lesson1/issues/1">Выполнениие ДЗ</a>
+* <a href="https://github.com/YrNiki/lesson1/issues/1">ЗАДАНИЕ</a>
